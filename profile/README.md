@@ -4,7 +4,7 @@
 
 - 😃 &nbsp; Explorando o mundo de várias formas!
 - 🎓 &nbsp; Investindo em meu futuro.
-- 💼 &nbsp; Trabalhando como CEO no projeto Heaven Store Discord.
+- 💼 &nbsp; Trabalhando como CEO no projeto Heaven Mods Discord.
 - ✍️ &nbsp; Escreva cada palavra da vida para torná-la melhor...
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

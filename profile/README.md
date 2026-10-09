@@ -44,14 +44,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=solundev&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=guilhermesousa07&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=solundev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesousa07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -59,7 +59,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=solundev&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesousa07&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -70,17 +70,17 @@
 
 <p align="center">
   <a
-    href="https://github.com/solundev/github-profile-trophy"
+    href="https://github.com/guilhermesousa07/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=solundev&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=guilhermesousa07&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/solundev/solundev/output/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/guilhermesousa07/guilhermesousa07/output/dist/github-contribution-grid-snake.svg)
 
 
 
